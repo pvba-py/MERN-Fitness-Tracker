@@ -415,6 +415,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-**Built with ❤️ using the MERN Stack**
+**Built by PVB Adithya using the MERN Stack**
 
 For questions or support, please open an issue on GitHub.
